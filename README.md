@@ -38,7 +38,7 @@ We are working hard to develop user-friendly systems such as smart home system d
 |**설명**|1회이상 경험|어느정도 학습|코드보고 이해|응용해서 구현|
 |**Level**|1-3|4-5|6-7|8-10|
 |**%**|0-25|25-50|50-75|75-100|
-```py
+```kt
 java           ██████████████████████░░░   Lv. 8(85%)
 kotlin         █████████████████████░░░░   Lv. 8(80%)
 Android Studio ███████████████████████░░   Lv. 9(90%)
